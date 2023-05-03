@@ -1,7 +1,6 @@
 # Applied Flight Mechanics and Flight Control
-#### Group 3 - Summer term 2023 - Technische Universität Berlin
 
-![talon](https://drive.google.com/file/d/1xKOmCLFWiiOV-15tmMhreW4Bu9mrqOX4/view?usp=share_link)
+![talon](./images/zohd_nano_talon_isis.png)
 GitHub repository for exchanging source code of the project.
 
 ## Setup
