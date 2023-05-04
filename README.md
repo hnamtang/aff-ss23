@@ -9,3 +9,8 @@ You can clone the repository to get the source code by using the `git clone` com
 ```
 git clone https://github.com/hnamtang/aff-ss23.git
 ```
+
+You can get the newest update of the repository by using the `git pull` command in terminal.
+```
+git pull
+```
