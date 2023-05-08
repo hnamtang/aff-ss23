@@ -3,6 +3,11 @@
 
 GitHub repository for exchanging source code of the project.
 
+## Requirement
+
+MATLAB/Simulink Version 2021a is required.
+If you have a newer version, please keep in mind that you should save your Simulink model as `Simulink 10.3/R2021a Models (*.slx)`. That will enable your code to run in the computers in room F326 of ILR, TU Berlin.
+
 ## Setup
 
 You can clone the repository to get the source code by using the `git clone` command in terminal.
